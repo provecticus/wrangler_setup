@@ -1,2 +1,2 @@
-# wrangler_setup
-This guide walks you through setting up Cloudflare Workers using Wrangler on Windows 11 + PowerShell. It covers both starting a new project and deploying an existing one, with attention to common issues.
+[![Build & Deploy](https://github.com/you/my-worker/actions/workflows/deploy.yml/badge.svg)](https://github.com/you/my-worker/actions)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
