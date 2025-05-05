@@ -1,0 +1,11 @@
+# Node
+node_modules/
+dist/
+
+# Wrangler secrets (if you ever store a .env or local override)
+wrangler.toml.local
+.env
+
+# IDE + OS
+.vscode/
+*.log
